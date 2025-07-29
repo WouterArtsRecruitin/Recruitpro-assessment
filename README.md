@@ -1,2 +1,2 @@
-# ecruitpro-assessment
+# Recruitpro-assessment
 Professional recruitment assessment tool
